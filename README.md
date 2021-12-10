@@ -14,3 +14,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/94125986/145429856-2d77df83-d784-43dd-ad3a-dc476ab08069.png)
+
+
+2021.12.10 DISQUS를 이용한 댓글 기능 구현
+출처: https://web1-asdycznfsp.disqus.com/admin/install/platforms/universalcode/
