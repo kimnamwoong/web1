@@ -1,5 +1,8 @@
 # web1
 
+
+HTML & SERVER & Client 
+
 컴퓨터에 웝서버 설치하여 스마트폰으로 접속하기
 
 컴퓨터 웹 서버 : 아파치 웹서버 (아파치 웹서버 설치를 위해 Bitnami WAMP Stack 설치)
